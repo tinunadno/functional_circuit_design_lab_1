@@ -1,0 +1,7 @@
+*
+!*.asc
+!*.asy
+!*.pdf
+!*.md
+!*.docx
+!.gitignore
