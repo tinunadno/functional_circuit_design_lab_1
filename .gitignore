@@ -1,7 +1,2 @@
-*
-!*.asc
-!*.asy
-!*.pdf
-!*.md
-!*.docx
-!.gitignore
+2task\build
+2task\out
