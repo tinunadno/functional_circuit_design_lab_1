@@ -2,15 +2,15 @@
 	"version": "2.0.0",
 	"tasks": [
 		{
-			"label" : "Run GTK-wave",
+			"label": "Run GTK-wave",
 			"type": "shell",
 			"command": "gtkwave",
 			"args": [
-				".\\out\\*.vcd"
+				"./out/*.vcd"
 			],
 			"options": {
-			  "cwd": "${workspaceFolder}"
-			},
+				"cwd": "${workspaceFolder}"
+			}
 		}
 	]
 }
