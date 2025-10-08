@@ -4,7 +4,7 @@
 		{
 			"label" : "Run GTK-wave",
 			"type": "shell",
-			"command": "gtkwave.exe",
+			"command": "gtkwave",
 			"args": [
 				".\\out\\*.vcd"
 			],
